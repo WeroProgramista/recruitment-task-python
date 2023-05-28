@@ -1,4 +1,4 @@
-# Python Bricks Construction hot-ncdc
+# hot-ncdc-python by Oskar Pliżga
 
 ## Description
 
