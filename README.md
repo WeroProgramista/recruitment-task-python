@@ -19,7 +19,7 @@ The project is contained within a single Python file which includes multiple cla
 To run the project, you need to have Python installed on your system. You can run the program by using the following command in the command line:
 
 ```bash
-python <filename>.py < input.txt
+python Bricks.py < plik.txt
 ```
 ## License 
 
